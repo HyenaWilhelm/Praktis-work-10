@@ -1,0 +1,17 @@
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.csproj.AssemblyReference.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.AssemblyInfoInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.AssemblyInfo.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Консольный магазин.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Консольный магазин.deps.json
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Консольный магазин.runtimeconfig.json
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Консольный магазин.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Консольный магазин.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.csproj.CopyComplete
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\refint\Консольный магазин.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\Консольный магазин.genruntimeconfig.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\Консольный магазин\Консольный магазин\obj\Debug\net6.0\ref\Консольный магазин.dll

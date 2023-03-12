@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCBtHfwh4UfLx/yeQSvXzCg4Ez1IOnxGJcR8vngsOUEJ95rcZqjCzP1ag//4FFcIPPrkx1cA9tuAVR97AjaP6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matvey\\Documents\\Си шарп\\Технарь\\Практосы\\Для пересдачи\\Консольный магазин\\Консольный магазин\\Консольный магазин.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matvey\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
